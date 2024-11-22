@@ -8,6 +8,8 @@ Zone-Xsec Grabber adalah alat yang memungkinkan kamu untuk mengekstrak daftar UR
 - Mengambil link hanya dari halaman yang dipilih secara otomatis.
 - Hasil disimpan dalam file teks yang mudah diakses.
 
+![screenshot](./zx.png)
+
 ## **Instalasi dan Pengaturan**
 
 ### **Langkah-langkah Instalasi:**
