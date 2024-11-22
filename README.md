@@ -93,6 +93,10 @@ Proses selesai! Semua link berhasil diambil dan disimpan di grabbed_links.txt.
 ## **Contributing:**
 Jika kamu ingin berkontribusi pada proyek ini, silakan lakukan **fork** pada repositori ini dan buat **pull request** dengan perbaikan atau fitur baru yang ingin kamu tambahkan.
 
+
+## Donate
+<a href="https://saweria.co/AsmaraHancur" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
+
 ---
 
 ## **Lisensi:**
