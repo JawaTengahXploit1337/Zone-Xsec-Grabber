@@ -26,7 +26,7 @@ Zone-Xsec Grabber adalah alat yang memungkinkan kamu untuk mengekstrak daftar UR
    Clone repository ini ke direktori lokal kamu dengan menggunakan perintah git:
 
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/JawaTengahXploit1337/Zone-Xsec-Grabber.git
    ```
 
    Gantilah `username/repository-name` dengan username dan nama repositori GitHub kamu.
@@ -35,7 +35,7 @@ Zone-Xsec Grabber adalah alat yang memungkinkan kamu untuk mengekstrak daftar UR
    Masuk ke dalam direktori repositori yang telah di-clone dan install dependencies yang dibutuhkan. Untuk itu, kamu harus menginstal `requests` dan `beautifulsoup4` menggunakan pip:
 
    ```bash
-   cd repository-name
+   cd Zone-Xsec-Grabber
    pip3 install -r requirements.txt
    ```
 
