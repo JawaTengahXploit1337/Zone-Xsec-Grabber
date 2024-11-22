@@ -29,8 +29,6 @@ Zone-Xsec Grabber adalah alat yang memungkinkan kamu untuk mengekstrak daftar UR
    git clone https://github.com/JawaTengahXploit1337/Zone-Xsec-Grabber.git
    ```
 
-   Gantilah `username/repository-name` dengan username dan nama repositori GitHub kamu.
-
 3. **Instalasi Dependencies:**
    Masuk ke dalam direktori repositori yang telah di-clone dan install dependencies yang dibutuhkan. Untuk itu, kamu harus menginstal `requests` dan `beautifulsoup4` menggunakan pip:
 
