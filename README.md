@@ -1,3 +1,5 @@
+![Thumbnail](./zx.png)
+
 # **Zone-Xsec Mass Grabber Tool**
 
 **Deskripsi:**  
@@ -7,8 +9,6 @@ Zone-Xsec Grabber adalah alat yang memungkinkan kamu untuk mengekstrak daftar UR
 - Grab links dari halaman **Special**, **Archive**, dan **Onhold**.
 - Mengambil link hanya dari halaman yang dipilih secara otomatis.
 - Hasil disimpan dalam file teks yang mudah diakses.
-
-![screenshot](./zx.png)
 
 ## **Instalasi dan Pengaturan**
 
