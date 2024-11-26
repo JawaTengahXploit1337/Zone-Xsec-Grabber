@@ -1,3 +1,9 @@
+<meta property="og:title" content="Mass Zone-Xsec Grabber Tools" />
+<meta property="og:description" content="Mass Zone-Xsec Grabber untuk mengekstrak URL utama secara masal & otomatis." />
+<meta property="og:image" content="https://raw.githubusercontent.com/JawaTengahXploit1337/Zone-Xsec-Grabber/main/zx.png" />
+<meta property="og:url" content="https://github.com/JawaTengahXploit1337/Zone-Xsec-Grabber" />
+<meta property="og:type" content="Website Grabber Dek" />
+
 ![Thumbnail](./zx.png)
 
 # **Zone-Xsec Mass Grabber Tool**
